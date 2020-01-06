@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\peter\\source\\repos\\WarCardGame\\WarCardGame.csproj": {}
+    "C:\\Users\\peter\\Desktop\\WarCardGame\\WarCardGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\peter\\source\\repos\\WarCardGame\\WarCardGame.csproj": {
+    "C:\\Users\\peter\\Desktop\\WarCardGame\\WarCardGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\peter\\source\\repos\\WarCardGame\\WarCardGame.csproj",
+        "projectUniqueName": "C:\\Users\\peter\\Desktop\\WarCardGame\\WarCardGame.csproj",
         "projectName": "WarCardGame",
-        "projectPath": "C:\\Users\\peter\\source\\repos\\WarCardGame\\WarCardGame.csproj",
+        "projectPath": "C:\\Users\\peter\\Desktop\\WarCardGame\\WarCardGame.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\peter\\source\\repos\\WarCardGame\\obj\\",
+        "outputPath": "C:\\Users\\peter\\Desktop\\WarCardGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

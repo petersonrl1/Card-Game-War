@@ -7,10 +7,10 @@ namespace WarCardGame
     {
         static void Main(string[] args)
         {            
-            Console.SetWindowSize(100, 40);
+            Console.SetWindowSize(100, 50);
             Console.WriteLine("Welcome to the WAR CARD GAME\n");
 
-            Console.WriteLine("|| HOW TO PLAY:\n");
+            Console.WriteLine("|| HOW TO PLAY:\n")                            
             Console.WriteLine(" - You and the computer are dealt one half of a shuffled deck of cards.".PadLeft(1));
             Console.WriteLine(" - Each turn, each player draws a card from their deck and lays it face up.".PadLeft(1));
             Console.WriteLine(" - The player that draws the card with higher value gets both cards.".PadLeft(1));
