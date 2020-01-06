@@ -62,8 +62,9 @@ namespace WarCardGame
                     WarCard playerDraw = yourDeck.DrawCard();
                     WarCard computerDraw = computerDeck.DrawCard();
                     totalHands++;
-                    //0 is the suit, 1 is the face as set in Card.cs
+                    //clear each previous hand
                     Console.Clear();
+                    //0 is the suit, 1 is the face as set in Card.cs
                     Console.WriteLine("Player has drawn: {0} of {1}.\n", playerDraw.face, playerDraw.suit);
                     Console.WriteLine("Computer has drawn: {0} of {1}.\n", computerDraw.face, computerDraw.suit);
 
@@ -83,7 +84,7 @@ namespace WarCardGame
                     //cards their opponent drew in the hand (5) plus the original card that was drawn that caused the War
                     //Case. The winner will also add all cards the winner drew in the War Case + the initial card.
 
-                    //THE REASON the game can end on a draw is because once a player or comp deck gets to 1 card and they 
+                    //BUG: the reason the game can end on a draw is because once a player or comp deck gets to 1 card and they 
                     //play it, there deck is now empty and the next hand they have no cards. Something more eleborate 
                     //would have to be coded to handle a war case, and a war case when the player/comp has less than the 
                     //amount of cards used in the war case.
