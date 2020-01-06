@@ -1,0 +1,11 @@
+C:\Users\peter\source\repos\WarCardGame\bin\Debug\netcoreapp3.0\WarCardGame.exe
+C:\Users\peter\source\repos\WarCardGame\bin\Debug\netcoreapp3.0\WarCardGame.deps.json
+C:\Users\peter\source\repos\WarCardGame\bin\Debug\netcoreapp3.0\WarCardGame.runtimeconfig.json
+C:\Users\peter\source\repos\WarCardGame\bin\Debug\netcoreapp3.0\WarCardGame.runtimeconfig.dev.json
+C:\Users\peter\source\repos\WarCardGame\bin\Debug\netcoreapp3.0\WarCardGame.dll
+C:\Users\peter\source\repos\WarCardGame\bin\Debug\netcoreapp3.0\WarCardGame.pdb
+C:\Users\peter\source\repos\WarCardGame\obj\Debug\netcoreapp3.0\WarCardGame.csprojAssemblyReference.cache
+C:\Users\peter\source\repos\WarCardGame\obj\Debug\netcoreapp3.0\WarCardGame.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\WarCardGame\obj\Debug\netcoreapp3.0\WarCardGame.AssemblyInfo.cs
+C:\Users\peter\source\repos\WarCardGame\obj\Debug\netcoreapp3.0\WarCardGame.dll
+C:\Users\peter\source\repos\WarCardGame\obj\Debug\netcoreapp3.0\WarCardGame.pdb
