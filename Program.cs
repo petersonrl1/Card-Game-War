@@ -32,8 +32,8 @@ namespace WarCardGame
                 // create WarDeck, filling it with WarCards
                 WarDeck mainDeck = new WarDeck();
                 mainDeck.GenerateDeck();
+                mainDeck.ShuffleDeck();
                 
-
                 // Split deck into 2 for player and computer
                 WarDeck yourDeck = new WarDeck();
                 WarDeck computerDeck = new WarDeck();
@@ -92,7 +92,9 @@ namespace WarCardGame
                     //the War logic would go here in the else block below.
                     else
                     {
-                        Console.WriteLine("It's a draw!\n");
+                        
+                        Console.WriteLine("It's a draw! The WAR is on!\n");
+                        
                     }
                 }
                 if (yourDeck.IsEmpty())

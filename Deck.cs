@@ -19,6 +19,5 @@ namespace WarCardGame
         public abstract void PlaceInDeck(Card c1, Card c2);
         //add method for cards won in a round that results in War
         public abstract bool IsEmpty();
-
     }
 }
